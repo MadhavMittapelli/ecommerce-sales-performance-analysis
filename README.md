@@ -66,7 +66,7 @@ This project analyzes historical sales data to identify important trends and opp
 - Analyzed sales and profitability performance.
 ## Power BI Dashboard
 
-![Executive Dashboard](D:\Ecommerce_project\PowerBI\Screenshot)
+![Executive Dashboard](PowerBI/Screenshot/executive_dashboard.png)
 
 ## Key Dashboard Metrics
 
