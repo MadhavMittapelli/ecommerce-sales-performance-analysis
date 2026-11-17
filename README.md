@@ -64,6 +64,9 @@ This project analyzes historical sales data to identify important trends and opp
 - Developed interactive dashboard visuals.
 - Added Year, Region, Category and Segment slicers.
 - Analyzed sales and profitability performance.
+## Power BI Dashboard
+
+![Executive Dashboard](PowerBI/screenshots/executive_dashboard.png)
 
 ## Key Dashboard Metrics
 
